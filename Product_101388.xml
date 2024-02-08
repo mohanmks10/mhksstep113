@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<STEP-ProductInformation ContextID="EN All All" WorkspaceID="Main" UseContextLocale="false">
-    <Products>
-        <Product ID="101388" UserTypeID="arme_Products" ParentID="101387">
-            <Name>Product_1</Name>
-        </Product>
-    </Products>
-</STEP-ProductInformation>
